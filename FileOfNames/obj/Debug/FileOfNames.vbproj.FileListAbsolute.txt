@@ -1,0 +1,19 @@
+C:\Users\Julie\AppData\Local\Temporary Projects\FileOfNames\bin\Debug\FileOfNames.exe.config
+C:\Users\Julie\AppData\Local\Temporary Projects\FileOfNames\bin\Debug\FileOfNames.exe
+C:\Users\Julie\AppData\Local\Temporary Projects\FileOfNames\bin\Debug\FileOfNames.pdb
+C:\Users\Julie\AppData\Local\Temporary Projects\FileOfNames\bin\Debug\FileOfNames.xml
+C:\Users\Julie\AppData\Local\Temporary Projects\FileOfNames\obj\Debug\FileOfNames.Resources.resources
+C:\Users\Julie\AppData\Local\Temporary Projects\FileOfNames\obj\Debug\FileOfNames.vbproj.GenerateResource.Cache
+C:\Users\Julie\AppData\Local\Temporary Projects\FileOfNames\obj\Debug\FileOfNames.exe
+C:\Users\Julie\AppData\Local\Temporary Projects\FileOfNames\obj\Debug\FileOfNames.xml
+C:\Users\Julie\AppData\Local\Temporary Projects\FileOfNames\obj\Debug\FileOfNames.pdb
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\bin\Debug\FileOfNames.exe.config
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\obj\Debug\FileOfNames.exe
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\obj\Debug\FileOfNames.xml
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\obj\Debug\FileOfNames.pdb
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\bin\Debug\FileOfNames.exe
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\bin\Debug\FileOfNames.pdb
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\bin\Debug\FileOfNames.xml
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\obj\Debug\FileOfNames.Form1.resources
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\obj\Debug\FileOfNames.Resources.resources
+C:\Users\Julie\Desktop\FileOfNames\FileOfNames\obj\Debug\FileOfNames.vbproj.GenerateResource.Cache
